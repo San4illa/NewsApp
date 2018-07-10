@@ -1,0 +1,31 @@
+<resources>
+    <!-- Title for the application. -->
+    <string name="app_name">NewsApp</string>
+
+    <!-- Settings. -->
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News Settings</string>
+
+    <!-- Strings For Query Preference -->
+    <string name="settings_query_label">Query</string>
+    <string name="settings_query_key" translatable="false">q</string>
+    <string name="settings_query_default" translatable="false">Rick and Morty</string>
+
+    <!-- Strings For Sort By Preference -->
+    <string name="settings_sort_by_label">Sort By</string>
+    <string name="settings_sort_by_key" translatable="false">sortBy</string>
+    <string name="settings_sort_by_default" translatable="false">publishedAt</string>
+
+    <!-- Label for sort by relevancy option -->
+    <string name="settings_sort_by_relevancy_label">Most relevance</string>
+    <string name="settings_sort_by_relevancy_value" translatable="false">relevancy</string>
+
+
+    <!-- Label for sort by popularity option -->
+    <string name="settings_sort_by_popular_label">Most popular</string>
+    <string name="settings_sort_by_popular_value" translatable="false">popular</string>
+
+    <!-- Label for sort by time option -->
+    <string name="settings_sort_by_latest_label">Most recent</string>
+    <string name="settings_sort_by_latest_value" translatable="false">publishedAt</string>
+</resources>

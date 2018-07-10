@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Title for the application. -->
+    <string name="app_name">Новости</string>
+
+    <!-- Settings. -->
+    <string name="settings_menu_item">Настройки</string>
+    <string name="settings_title">Настройки</string>
+
+    <!-- Strings For Query Preference -->
+    <string name="settings_query_label">Запрос</string>
+
+    <!-- Strings For Sort By Preference -->
+    <string name="settings_sort_by_label">Сортировка</string>
+
+    <!-- Label for sort by relevancy option -->
+    <string name="settings_sort_by_relevancy_label">По релевантности</string>
+
+    <!-- Label for sort by popularity option -->
+    <string name="settings_sort_by_popular_label">По популярности</string>
+
+    <!-- Label for sort by time option -->
+    <string name="settings_sort_by_latest_label">По времени</string>
+</resources>
